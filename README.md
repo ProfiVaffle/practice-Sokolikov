@@ -1050,7 +1050,7 @@ public class MainTest {
 1) Генерація випадкових чисел
 
 <details>
-<summary>Код</summary>
+<summary>Приклад коду</summary>
 
 ```java
 public static void generateNumbers() {
@@ -1067,7 +1067,7 @@ public static void generateNumbers() {
 2) Пошук максимального значення
 
 <details>
-<summary>Код</summary>
+<summary>Приклад коду</summary>
 
 ```java
 public static int findMax(List<Integer> numbers) {
@@ -1085,7 +1085,7 @@ public static int findMax(List<Integer> numbers) {
 3) Обчислення середнього значення
 
 <details>
-<summary>Код</summary>
+<summary>Приклад коду</summary>
 
 ```java
 public static double calculateAverage(List<Integer> numbers) {
@@ -1103,7 +1103,7 @@ public static double calculateAverage(List<Integer> numbers) {
 4) Пошук мінімального значення
 
 <details>
-<summary>Код</summary>
+<summary>Приклад коду</summary>
 
 ```java
 public static int findMin(List<Integer> numbers) {
